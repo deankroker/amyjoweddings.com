@@ -214,7 +214,7 @@
 				  </div>
 			  </div>
 
-	  		<div class="row">
+	  	<!--	<div class="row">
 	  			<div class="col-md-offset-1 col-md-10">
 	  			<div class="form-horizontal">
 				  <div class="form-group">
@@ -248,7 +248,7 @@
 			
 				
 	  		</div>
-	  	</div>
+	  	</div>-->
 	  </section>  
 
 	 
